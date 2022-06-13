@@ -11,18 +11,21 @@ h3{
 li{
     font-size: 40px;
 }
-
+.imgprin{
+    width: 100%;
+    height: 75%;
+}
 .imgdes{
-    width: 250px;
-    height: 75px;
+    width: 20%;
+    height: 7%;
 }
 .imgcom{
-    width: 60px;
-    height: 60px;
+    width: 7%;
+    height: 7%;
 }
 .imgcar{
-    width: 1000px;
-    height: 500px;
+    width: 75%;
+    height: 50%px;
 }
 body{
     background-image: url(imagenes/wallpaper1.jpg);
