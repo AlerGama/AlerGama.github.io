@@ -25,7 +25,7 @@ li{
     height: 500px;
 }
 body{
-    background-image: url(imagenes/wallpaper1.jpg);
+    background-image: url(wallpaper1.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
